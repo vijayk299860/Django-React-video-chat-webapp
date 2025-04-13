@@ -38,8 +38,3 @@ A full-stack real-time chat application with JWT authentication and video stream
 
 ---
 
-### Clone the Repo
-
-```bash
-git clone https://github.com/your-username/django-chat-video-stream.git
-cd django-chat-video-stream
