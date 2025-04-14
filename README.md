@@ -1,7 +1,6 @@
 # Django Real-Time Chat + Video Streaming App
 
-A full-stack real-time chat application with JWT authentication and video streaming capabilities. Based on the [abdurraufraihan/django-chat](https://github.com/abdurraufraihan/django-chat) repository, this enhanced version includes:
-
+A full-stack real-time chat application with JWT authentication and video streaming capabilities.
 - JWT Authentication
 - Real-time Chat using Django Channels + WebSockets
 - Video Streaming (WebRTC or MJPEG)
